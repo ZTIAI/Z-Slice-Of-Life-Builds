@@ -1,0 +1,27 @@
+{
+  "pc": {
+    "version": "45037a0b42ec2009b9d47aee932580d12700b425c3723213902689500d379f4a",
+    "pretty_version": "playtest-0.4",
+    "renpy_version": "8.6.0.26111403",
+    "rpu_url": "rpu/pc.files.rpu",
+    "rpu_digest": "e27433d152f0d14d62106571d155f132b097e5dbfc5b36b155769f917a86230c"
+  },
+  "linux": {
+    "version": "5d29f2bec079e04bdcbecc0c3dd34ad9ead0747301c77c9d0a162c3229e42a1e",
+    "pretty_version": "playtest-0.4",
+    "renpy_version": "8.6.0.26111403",
+    "rpu_url": "rpu/linux.files.rpu",
+    "rpu_digest": "deb316abc07479852d0927b1ad83f57f7f7f9586866e8da6bb0ca011a21c8b64"
+  },
+  "mac": {
+    "version": "ac938eaeb5ce934564cdb716fcf24928be421042a35c5dd7fe301e04388774a1",
+    "pretty_version": "playtest-0.4",
+    "renpy_version": "8.6.0.26111403",
+    "rpu_url": "rpu/mac.files.rpu",
+    "rpu_digest": "bd9ef31a6a650e50a549c5b94ecd85a6ddb4a1436128d9bf4eedd3e6e7854764"
+  },
+  "zsol_notes": {
+    "changelog": "The update check now works. If you have 0.2 or 0.3, download this one once; after that, updates come by themselves.",
+    "version": "Playtest 0.4"
+  }
+}
