@@ -1,0 +1,27 @@
+{
+  "pc": {
+    "version": "10e90227e84b15f2747cea75f9a457689b5849974e345254d8db2ea092502cfb",
+    "pretty_version": "playtest-0.2",
+    "renpy_version": "8.6.0.26111403",
+    "rpu_url": "rpu/pc.files.rpu",
+    "rpu_digest": "6c22117efd57318b39ae14f160dda85a2f2971018b56c70cc9414d88039d95f6"
+  },
+  "linux": {
+    "version": "35854972038c9e457770680b8e08f0ae2b041f023e3550c2269142f7cade6ae9",
+    "pretty_version": "playtest-0.2",
+    "renpy_version": "8.6.0.26111403",
+    "rpu_url": "rpu/linux.files.rpu",
+    "rpu_digest": "2e481b51348228639df2df369eea75fd02835bf156c1270b298658fcd0a4f926"
+  },
+  "mac": {
+    "version": "2bd20ee27a8cac7ea39f8bb4bfacc1309460c102349ad6dd5e634904bc833955",
+    "pretty_version": "playtest-0.2",
+    "renpy_version": "8.6.0.26111403",
+    "rpu_url": "rpu/mac.files.rpu",
+    "rpu_digest": "44170c15526c5bc1c628a98e866668b1c959ed59b68fe0d2406e4c4ee4acc673"
+  },
+  "zsol_notes": {
+    "changelog": "Every placement now has its whole story: Faith, Miller, Benedikt, June and Rowan, and the Penthouse. New music and room sounds.",
+    "version": "Playtest 0.2"
+  }
+}
