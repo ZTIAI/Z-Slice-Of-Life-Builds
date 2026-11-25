@@ -1,0 +1,27 @@
+{
+  "pc": {
+    "version": "99cd03a54c01241113f32201b06f47d151ccbf3ed2fa250d809fbdcbb1e10a4e",
+    "pretty_version": "playtest-0.3",
+    "renpy_version": "8.6.0.26111403",
+    "rpu_url": "rpu/pc.files.rpu",
+    "rpu_digest": "7f9743548b2f8f0d32aa3c2a939e6ce8546f72bfa0886736e5cb0cfe77e236e2"
+  },
+  "linux": {
+    "version": "10c636976e77d3291bee502094e14f78272fb661f5439d3f2ca52612e26121de",
+    "pretty_version": "playtest-0.3",
+    "renpy_version": "8.6.0.26111403",
+    "rpu_url": "rpu/linux.files.rpu",
+    "rpu_digest": "ce4c069b0fb78fc7e10c657900d7de6cff22cf407c56277c1df70f4df67a2b5f"
+  },
+  "mac": {
+    "version": "51acd3a8964f3d13f3d034fc3598031423191ae1d6fdfcc7d8e4607abb743ef3",
+    "pretty_version": "playtest-0.3",
+    "renpy_version": "8.6.0.26111403",
+    "rpu_url": "rpu/mac.files.rpu",
+    "rpu_digest": "fbdf8f1d462d3416141ec45bd506e55357745550dbdb02fd7fb6f2811a98e128"
+  },
+  "zsol_notes": {
+    "changelog": "The game now updates itself. No story changes in this one.",
+    "version": "Playtest 0.3"
+  }
+}
