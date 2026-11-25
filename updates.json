@@ -1,0 +1,27 @@
+{
+  "pc": {
+    "version": "c0dba06d8550092f6c9512d84d29b74b1fe91fc0ddc953e17085241f615db6a2",
+    "pretty_version": "playtest-0.5",
+    "renpy_version": "8.6.0.26111403",
+    "rpu_url": "rpu/pc.files.rpu",
+    "rpu_digest": "945039ded5465bb394372802cc523754e053ab2892d7e9b25cf2083ab694747b"
+  },
+  "linux": {
+    "version": "c8b7c7cd2255839791e5ac15439ad73168e12ee20135bb4f7d09cf55a61da76a",
+    "pretty_version": "playtest-0.5",
+    "renpy_version": "8.6.0.26111403",
+    "rpu_url": "rpu/linux.files.rpu",
+    "rpu_digest": "cab7ba5af9e1324977816a0b7ade84a636201c34455ff5cbc19d7ff2043b14c5"
+  },
+  "mac": {
+    "version": "19610598e6841dea1e36fd2162095ce99c14f01ad8a2728b9ea4394575644f92",
+    "pretty_version": "playtest-0.5",
+    "renpy_version": "8.6.0.26111403",
+    "rpu_url": "rpu/mac.files.rpu",
+    "rpu_digest": "56329b5beeca84d4b6170dc95242fba625b256f6f155d06479ca22ac6ecdd0c1"
+  },
+  "zsol_notes": {
+    "changelog": "A small test of the automatic update. Nothing new to play yet.",
+    "version": "Playtest 0.5"
+  }
+}
