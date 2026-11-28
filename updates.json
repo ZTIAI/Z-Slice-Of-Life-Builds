@@ -1,0 +1,27 @@
+{
+  "pc": {
+    "version": "91f85d6fd0118bd466a139bba657cdba974225c9d584d3d8521bd7393a776a24",
+    "pretty_version": "playtest-0.6",
+    "renpy_version": "8.6.0.26111403",
+    "rpu_url": "rpu/pc.files.rpu",
+    "rpu_digest": "81cb224d5bd0f69d35db8b75839cc51c88daf055ca29977808e1e2ca9bdccc4b"
+  },
+  "linux": {
+    "version": "8fdf72e6b3b7bb722a3f04e5ff01d7bff95d39b144dd806a1a1e28366ad16d9d",
+    "pretty_version": "playtest-0.6",
+    "renpy_version": "8.6.0.26111403",
+    "rpu_url": "rpu/linux.files.rpu",
+    "rpu_digest": "8ac6b80214eab0b480f12b2c7594d0b049ac91e656576313e68aba28fc5a9bd6"
+  },
+  "mac": {
+    "version": "e7e08bf2299a35c972472440dc6bbe3d97de75fd3bbb5610308b64ae899bea2f",
+    "pretty_version": "playtest-0.6",
+    "renpy_version": "8.6.0.26111403",
+    "rpu_url": "rpu/mac.files.rpu",
+    "rpu_digest": "b48aed4a2dfebcf205be918f664b42f278998d9d010442a357603652a07352ab"
+  },
+  "zsol_notes": {
+    "changelog": "Rawsy's route, lots of new art (new rooms, story pictures, Rawsy herself), a tidier Desk Work, and busy evenings that fit on the screen again.",
+    "version": "Playtest 0.6"
+  }
+}
